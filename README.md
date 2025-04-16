@@ -31,4 +31,4 @@ Este es un script básico en Python que utiliza las librerías `requests` y `Bea
 
 ## Autor
 
-Isaacpsy
+MatiasFrutos
